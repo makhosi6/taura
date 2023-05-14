@@ -1,5 +1,5 @@
-## [taura-ai](taura.ai)
-
+## [taura-ai](taura.ai) 
+_taura is shona phrase which means; talk, speech, to use language, express, conversation, (Of course it can be used in different contexts as a verb, noun, relative phrase, figuratively, etc)_
 * Looking into building a AI-powered online video localization services, that allows seamlessly translate and adaption of video content for global audiences, breaking down language barriers and expanding reach. It is targeted towards content creators, businesses, and organizations to effectively communicate their messages, stories, and ideas across different cultures and languages.
 
 ### AI-powered online video localization service steps and stack 
